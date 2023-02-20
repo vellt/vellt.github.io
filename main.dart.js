@@ -65440,7 +65440,7 @@ A.Sn.prototype={
 $2(a,b){var s,r=null,q=$.fb.ao()===B.ag?20:35,p=$.fb.ao()===B.ag?20:35,o=this.a,n=o.ax,m=A.a5(n).j("bB<1>"),l=t.z,k=!A.dI(new A.bB(n,m),!0,l)[b].gkM()?B.El:B.cS,j=A.a([],t.Q)
 if(A.dI(new A.bB(n,m),!0,l)[b].gkM()&&$.fb.ao()!==B.ag)j.push(new A.dw(new A.aE(0,8,0,0),new A.BR(B.j,new A.pI("https://avatars.githubusercontent.com/u/61885011?v=4"),18,r),r))
 if($.fb.ao()!==B.ag)j.push(A.ix(r,r,16))
-s=$.fb.ao()===B.ag?85*$.afm.ao()/100:60*$.afm.ao()/100
+s=$.fb.ao()===B.ag?80*$.afm.ao()/100:60*$.afm.ao()/100
 n=A.dI(new A.bB(n,m),!0,l)[b].gkM()?new A.S(4294243572):B.cT
 j.push(A.j9(r,new A.hT(new A.Sk(o,b),r),B.u,r,new A.aD(0,s,0,1/0),new A.eW(n,r,r,A.ts(8),r,r,B.b9),r,r,new A.aE(0,8,0,8),new A.aE(25,20,25,20),r,r,r))
 return new A.dw(new A.aE(p,0,q,0),A.H5(j,B.dw,k,B.bG),r)},
