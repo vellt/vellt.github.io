@@ -65433,7 +65433,7 @@ iN(){var s=0,r=A.a1(t.z),q=this,p,o
 var $async$iN=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:q.Cs()
 s=2
-return A.X(A.axY(A.xM("https://gist.githubusercontent.com/vellt/70bef82cc7a33783c2d17037de5c564e/raw/c95b77cf56f2e662486eae7ca264082ebc9b07f0/index.json",0,null)),$async$iN)
+return A.X(A.axY(A.xM("https://gist.githubusercontent.com/vellt/70bef82cc7a33783c2d17037de5c564e/raw/14caa533af5cd2abf8a1b59403042ab2ca594209/index.json",0,null)),$async$iN)
 case 2:p=b
 q.ay=A.e0(J.ahv(B.ba.cV(0,A.axJ(J.aV(A.avM(p.e).c.a,"charset")).cV(0,p.w)),new A.Sx()),!0,t.fO)
 A.h1(q.nO("K\xf6sz\xf6n\xe9s",!0,!1))
