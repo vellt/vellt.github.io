@@ -65321,7 +65321,7 @@ iN(){var s=0,r=A.a1(t.z),q=this,p,o
 var $async$iN=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:q.Cs()
 s=2
-return A.Y(A.axS(A.xM("https://gist.githubusercontent.com/vellt/70bef82cc7a33783c2d17037de5c564e/raw/9cd0273b9b4d96afb396107c468cb8cb701e72bd/index.json",0,null)),$async$iN)
+return A.Y(A.axS(A.xM("https://gist.githubusercontent.com/vellt/70bef82cc7a33783c2d17037de5c564e/raw/4c452f7f0bb82dcc08bcf81f9cef1a370f68953f/index.json",0,null)),$async$iN)
 case 2:p=b
 o=A.dI(J.ahm(B.ba.cU(0,A.axD(J.aX(A.avH(p.e).c.a,"charset")).cU(0,p.w)),new A.Sg()),!0,t.fO)
 q.ay=o
